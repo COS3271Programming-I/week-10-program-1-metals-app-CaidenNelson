@@ -1,0 +1,20 @@
+/Users/caidennelson/Library/Java/JavaVirtualMachines/openjdk-23.0.1/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=58862:/Applications/IntelliJ IDEA CE.app/Contents/bin -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/caidennelson/IdeaProjects/UNWSP Java Class/out/production/week 10 metalTemp
+how many metals would you like to know temperatures about
+1
+What is the name of the metal
+Gold
+What is the density of Gold in g/cm^3
+19.32
+What is the melting point of Gold in celcius
+1064
+What is the boiling point of Gold in celcius
+2836
+What is the hardness of Gold on a scale of 0-10
+2.5
+Gold
+Hardness : 2.5
+Density : 19.32
+Melting point : 1947.2
+Boiling point : 5136.8
+
+Process finished with exit code 0
